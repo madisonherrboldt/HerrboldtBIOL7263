@@ -2,7 +2,21 @@
 title: "BIOL7263 Portfolio"
 author: "Madison Herrboldt"
 date: "2022-09-01"
-output: html_document
+output: 
+  prettydoc::html_pretty: 
+    theme: tactile
 ---
+
+
+___
+
+## Education
+I received my B.S. in Biology from Southeast Missouri State University in 2017. Currently I am a PhD candidate in the lab of Dr. Ron Bonett at the University of Tulsa. I will be graduating with my doctorate in December 2022 and in January will be starting a postdoc in Dr. Matt Wachowiak's lab at the University of Utah.
+
+## Research Interests
+I am an evolutionary reproductive biologist that uses male salamander courtship pheromones to understand the evolution of reproductive signals, how these signals diversify, and their impacts on species diversification. My expertise lies in using transcriptomic and histologic methods to investigate pheromone gene expression patterns and evaluate pheromone gland morphology. Most of my work centers around the evolution of the three pheromone families critical to salamander courtship. These gene families are characterized by rapid evolution and gene duplication and appear to have evolved in tandem with unique male pheromone producing glands and transitions in life cycle mode. 
+
+
+
 
 [Assignment1](Assignments/Assignment1_MAH.html)
