@@ -4,7 +4,7 @@ author: "Madison Herrboldt"
 date: "2022-09-01"
 output: 
   prettydoc::html_pretty: 
-    theme: tactile
+    theme: hpstr
 ---
 
 
@@ -14,12 +14,21 @@ ___
 I received my B.S. in Biology from Southeast Missouri State University in 2017. Currently I am a PhD candidate in the lab of Dr. Ron Bonett at the University of Tulsa. I will be graduating with my doctorate in December 2022 and in January will be starting a postdoc in Dr. Matt Wachowiak's lab at the University of Utah.
 
 ## Research Interests
-I am an evolutionary reproductive biologist that uses male salamander courtship pheromones to understand the evolution of reproductive signals, how these signals diversify, and their impacts on species diversification. My expertise lies in using transcriptomic and histologic methods to investigate pheromone gene expression patterns and evaluate pheromone gland morphology. Most of my work centers around the evolution of the three pheromone families critical to salamander courtship. These gene families are characterized by rapid evolution and gene duplication and appear to have evolved in tandem with unique male pheromone producing glands and transitions in life cycle mode. I am also interested in delving into  to understand how olfactory cues are encoded in the brain and how this is translated to a behavioral outcome. 
+I am an evolutionary reproductive biologist that uses male salamander courtship pheromones to understand the evolution of reproductive signals, how these signals diversify, and their impacts on species diversification. My expertise lies in using transcriptomic and histologic methods to investigate pheromone gene expression patterns and evaluate pheromone gland morphology. Most of my work centers around the evolution of the three pheromone families critical to salamander courtship. These gene families are characterized by rapid evolution and gene duplication and appear to have evolved in tandem with unique male pheromone producing glands and transitions in life cycle mode. I am also interested in delving into neurobiology to understand how olfactory cues are encoded in the brain and how this is translated to a behavioral outcome. 
 
-| Date | Name | Assignment Link 
-| :------------- | :------------- | :-------------
+![Fig. 1 Average gland size area normalized by SVL (snout vent length) for Plethodon albagula (P. alb), Desmognathus brimleyorum (D. br), metamorphic Eurycea tynerensis (E. ty M), and paedomorphic Eurycea tynerensis (E. ty P) (a and f). a Normalized mental gland area. f Normalized caudal gland area. Insets of Eurycea tynerensis macro gland images shown. The letters (a,b,c) represent significantly different groups as determined by a Fisher’s least square difference test. Transverse sections of skin taken from the lower jaw (b, c, d, e) and the base of the tail (g, h, i, j) of reproductive male individuals. Scale bars in lower left corners of images are 200 microns. Sections were cut at nine microns and stained with hematoxylin and eosin. tynerensis cgf, Caudal gland follicle; gr, Granular glands; mgf, Mental gland follicle.](Picture1.jpg)
+
+### Relevant Links
+[Research Gate](https://www.researchgate.net/profile/Madison-Herrboldt)
+
+[Bonett Lab](https://ronbonett.weebly.com/)
+
+## Assignments
+| Date | Name | Assignment Link | 
+| :---- | :---- | :---- |
 | September 1st 2022 | Assignemnt 1: Set up Rproject and link with Github | [Assignment1](Assignments/Assignment1_MAH.html) |
-| September 14th 2022  | Assignment 2: Build our portfolio and explore Rmarkdown  |
+| September 8th 2022  | Assignment 2: Build our portfolio and explore Rmarkdown  | [Assignment2](index.html) |
+| September 15th 2022 | Assignment 3: Working with BBedit and grep |
 
 
-[Assignment1](Assignments/Assignment1_MAH.html)
+
