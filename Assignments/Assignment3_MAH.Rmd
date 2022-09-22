@@ -1,0 +1,60 @@
+---
+title: "Assignment 3"
+author: "Madison Herrboldt"
+date: "2022-09-16"
+output: html_document
+---
+## Working with Regular Expressions
+
+#### Question 1 
+```
+search:\s{3}
+replace:, 
+```
+This regular expression searches for 3 consecutive spaces and then I replaced those spaces with a comma and a space after the comma.
+
+#### Question 2 
+```
+search:(\w+),\s(\w+\s)..\s+(\w+@\w+.\w+)
+replace:\2\1 \(\3\)
+```
+I might have fudged this one a bit because I couldn't get Caleb's name to work with the rest because there weren't enough spaces between his name and email so I added one space in his line and then it worked! So first I captured the name up until the comma and then I skipped the comma and space and captured the first name plus the space after the first name. Then I skipped the middle initial, period, and any spaces between that and the email. Then I capture the email. I replaced with the second capture element, then the first, added a space and parentheses, and then the third capture element. 
+
+#### Question 3 
+```
+search:(,\s\w+\s\w+,)
+replace:,
+```
+We needed to remove the scientific name so I captured the name between the two commas and then replaced that with a single comma to separate the common name and number. 
+
+#### Question 4 
+```
+search:(,\s\w)\w+\s(\w+,)
+replace:\1_\2
+```
+This regular expression captures the comma, space, and first letter of the genera names. Then it skips the rest of the genera names and the space between the genus and species names. Finally it captures the species name as well as the comma after the species name. I then added an underscore between the two captured elements.
+
+#### Question 5 
+```
+search:(,\s\w)\w+\s(\w{3})\w+,
+replace:\1_\2.,
+```
+This is very similar to the previous problem however in my second capture I captured the first three letters of the species name and then got rid of the rest of the species name plus the comma. Then when I replaced, I added a period and a comma. 
+
+#### Question 6 
+```
+grep '^>' rna.fna > Xenopus_headers.txt
+```
+[Xenopus_headers](Xenopus_headers.txt)
+
+I chose to download the Xenopus laevis transcripts. Here I used grep to capture the headers and tranfers them to a new file titled Xenopus_headers.
+
+#### Question 7 
+```
+sed 's/>/ \n>/g' rna.fna | sed -n '/rRNA/,/^ /p' > rRNA.txt
+```
+[rRNA](rrna.txt)
+
+Here I followed the example from class where we had to add a space between transcripts (not sure why). Then I used sed to isolate the genes that were ribosomal (rRNA) and pushed that to a new text file.
+
+
