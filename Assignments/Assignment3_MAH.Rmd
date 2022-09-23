@@ -53,7 +53,7 @@ I chose to download the Xenopus laevis transcripts. Here I used grep to capture 
 ```
 sed 's/>/ \n>/g' rna.fna | sed -n '/rRNA/,/^ /p' > rRNA.txt
 ```
-[rRNA](rrna.txt)
+[rRNA](rRNA.txt)
 
 Here I followed the example from class where we had to add a space between transcripts (not sure why). Then I used sed to isolate the genes that were ribosomal (rRNA) and pushed that to a new text file.
 
