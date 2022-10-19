@@ -1,16 +1,26 @@
-#Assignment 5
-#Madison Herrboldt
-#October 2022
-
+---
+title: "Assignment5"
+author: "Madison Herrboldt"
+date: "2022-10-19"
+output: html_document
+---
+```{r}
 #load required packages
 library(tidyverse)
 library(dplyr)
+```
 
+
+```{r}
 #load in the two required csv files from an html format with read_csv
 part1 <- read_csv("https://raw.githubusercontent.com/mbtoomey/Biol_7263/main/Data/assignment6part1.csv")
 part2 <- read_csv("https://raw.githubusercontent.com/mbtoomey/Biol_7263/main/Data/assignment6part2.csv")
+```
 
 
+## CODE
+
+```{r}
 #Here we are dealing with the first dataset, which I am calling part1. First I want to take the column names and separate them into three different columns.
 #(this makes the matrix longer so I use pivot_longer)
 #Then, for the sample column, I just wanted the sample number so I remove the word sample and transform these values into integers. I separate the names by
@@ -47,8 +57,13 @@ final %>% transmute(Gender = Gender, Treatment = Treatment, resid_mass = mass / 
 
 #I write my final tibble (summarystats) to a csv file
 write_csv(final, "Results/summary_stats.csv")
+```
 
 
+## Links
 
+[Rscript](Assignment5_rcode.R)
 
-                                                                                      
+[Merged Tibble](Results/experiment_data.csv)
+
+[Summary Stats](Results/summary_stats.csv)
