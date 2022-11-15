@@ -1,0 +1,15 @@
+---
+title: "Assignment 7"
+author: "Madison Herrboldt"
+date: "2022-11-15"
+output: html_document
+---
+# Assignment 7: My Climate Niche
+
+Link to Rscript:
+
+[Rscript](Assignment7_rcode.R)
+
+![My world](My_world.jpg)
+
+![My climate niche](My_climate_niche.jpg)
