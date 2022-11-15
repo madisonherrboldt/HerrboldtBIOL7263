@@ -46,7 +46,7 @@ final %>% transmute(Gender = Gender, Treatment = Treatment, resid_mass = mass / 
   summarize(mean_mass = mean(resid_mass, na.rm = TRUE), SD_mass = sd(resid_mass, na.rm = TRUE)) -> summarystats
 
 #I write my final tibble (summarystats) to a csv file
-write_csv(summarystats, "Results/summary_stats.csv")
+write_csv(final, "Results/summary_stats.csv")
 
 
 
