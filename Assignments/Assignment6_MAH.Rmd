@@ -1,0 +1,89 @@
+---
+title: "Assigment 6"
+author: "Madison Herrboldt"
+date: "2022-11-27"
+output: html_document
+---
+## Working with ggplot
+
+```{r}
+#load required packages
+library(tidyverse)
+library(ggplot2)
+library(patchwork)
+```
+
+### Part 1
+Calculate the total number of species seen each month of each year in each location.
+
+```{r}
+#load in dataset 
+Matt_ebird <- read_csv("https://github.com/mbtoomey/Biol_7263/blob/main/Data/MBT_ebird.csv?raw=true")
+view(Matt_ebird)
+
+options(dplyr.summarise.inform = FALSE) #summarise recognizes all groups
+
+#calculate the total number of species seen each month of each year in each location
+count_data <- Matt_ebird %>% #create new variable
+  group_by(month, year, location) %>% #group data by month, year, and location
+  count(scientific_name) %>% #get the unique species
+  summarise(number_species=n()) #get counts of number of species found per month, year, and location
+view(count_data)
+```
+
+Plot the number of species seen each month with the color of the points indicating year and facet this plot by location.
+
+```{r}
+#plot
+plot1 <- ggplot(data = count_data) + #tell it the data set
+  aes(as.factor(month), number_species) + #reference the x and y variables
+  geom_point(aes(color = year), size = 2) + #color points by year 
+  facet_wrap(~location) + #wrap the plots by locations
+  xlab("Month") + #add x axis label
+  ylab("Number of Species") + #add y axis label
+  ggtitle("Number of Observed Species by State per Year") #add plot title
+plot1
+```
+
+### Part 2 
+Use data from Assignment 5
+
+Plot a comparison of mass by treatment including the individual observations, the mean, and standard error of the mean. Use point color or shape to indicate the sex.
+
+```{r}
+mass_data <- read.csv("Results/summary_stats.csv") #load in data
+
+plot2 <- ggplot(data = mass_data, aes(Treatment,mass)) + #give it the data set and assign x and y 
+  geom_jitter(size = 3, aes(Treatment, mass, shape = Gender)) + #plot mass by treatment and sex (shape of points)
+  xlab("Treatment Group") + #add x axis label
+  ylab("Mass") + #add y axis label
+  stat_summary(fun = mean, geom = "crossbar", width = 0.5, color = "blue") + #add the mean
+  stat_summary(geom = "errorbar", width = 0.3) + #add error bars
+  labs(shape = "Sex") #add the key label
+plot2
+```
+
+### Part 3
+Generate a scatter plot of age and mass, indicate treatment with point shape or color, and fit separate regression lines (without CI) to each treatment.
+
+```{r}
+plot3 <- ggplot(data = mass_data, aes(age, mass)) + #give it the data set and assign x and y
+  geom_point(size = 3, aes(age, mass, shape = Treatment)) + #plot mass by age with point shapes differing by treatment
+  xlab("Age") + #add x axis label
+  ylab("Mass") + #add y axis label
+  geom_smooth(size = 2, method = lm, aes(color = Treatment, group = Treatment), se=FALSE) + #add trend lines without confidence interval
+  labs(shape = "Treatment") #add key label
+plot3
+```
+
+### Part 4
+Combine the plots from 2 and 3 using patchwork tag each panel with and number or letter and include a title for the overall plot.
+
+```{r}
+plot2+plot3+plot_annotation(title = "Mass Across Treatments, Sex, and Age",
+                            tag_levels = "A") 
+```
+
+
+
+
