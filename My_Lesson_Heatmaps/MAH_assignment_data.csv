@@ -1,0 +1,697 @@
+Sample,Tissue,Gene ,Expression
+A.tri_mg,Mental Gland,PMF1,0
+A.tri_mg,Mental Gland,PMF2,0
+A.tri_mg,Mental Gland,PMF3,1.1
+A.tri_mg,Mental Gland,PMF4,1.61
+A.tri_mg,Mental Gland,PMF5,0
+A.tri_mg,Mental Gland,PMF6,2.2
+A.tri_mg,Mental Gland,PMF7,0
+A.tri_mg,Mental Gland,PMF8,0
+A.tri_mg,Mental Gland,PMF9,1.22
+A.tri_mg,Mental Gland,spPRFd,0
+A.tri_mg,Mental Gland,spPRFc,0
+A.tri_mg,Mental Gland,spPRFb,0
+A.tri_mg,Mental Gland,spPRFa,0
+A.tri_mg,Mental Gland,PRFA,0
+A.tri_mg,Mental Gland,SPFa1,0
+A.tri_mg,Mental Gland,SPFa2,0
+A.tri_mg,Mental Gland,SPFa3,2.64
+A.tri_mg,Mental Gland,SPFa4,3.28
+A.tri_mg,Mental Gland,SPFb1,2.17
+A.tri_mg,Mental Gland,SPFb2,2.92
+A.tri_mg,Mental Gland,SPFb3,0
+A.tri_mg,Mental Gland,SPFb4,0
+A.tri_mg,Mental Gland,SPFb5,2.4
+A.tri_mg,Mental Gland,SPFb6,0.98
+A.tri_mg,Mental Gland,SPFb7,1.47
+A.tri_mg,Mental Gland,SPFb8,2.2
+A.tri_mg,Mental Gland,SPFb9,0
+A.tri_mg,Mental Gland,SPFb10,0
+A.tri_mg,Mental Gland,SPFb11,0
+R.kez_mg,Mental Gland,PMF1,0
+R.kez_mg,Mental Gland,PMF2,0
+R.kez_mg,Mental Gland,PMF3,0
+R.kez_mg,Mental Gland,PMF4,0
+R.kez_mg,Mental Gland,PMF5,0
+R.kez_mg,Mental Gland,PMF6,0
+R.kez_mg,Mental Gland,PMF7,0
+R.kez_mg,Mental Gland,PMF8,0
+R.kez_mg,Mental Gland,PMF9,0
+R.kez_mg,Mental Gland,spPRFd,0
+R.kez_mg,Mental Gland,spPRFc,0
+R.kez_mg,Mental Gland,spPRFb,0
+R.kez_mg,Mental Gland,spPRFa,0
+R.kez_mg,Mental Gland,PRFA,0
+R.kez_mg,Mental Gland,SPFa1,0
+R.kez_mg,Mental Gland,SPFa2,0
+R.kez_mg,Mental Gland,SPFa3,0
+R.kez_mg,Mental Gland,SPFa4,0
+R.kez_mg,Mental Gland,SPFb1,0
+R.kez_mg,Mental Gland,SPFb2,0
+R.kez_mg,Mental Gland,SPFb3,0
+R.kez_mg,Mental Gland,SPFb4,0
+R.kez_mg,Mental Gland,SPFb5,0
+R.kez_mg,Mental Gland,SPFb6,0
+R.kez_mg,Mental Gland,SPFb7,0
+R.kez_mg,Mental Gland,SPFb8,0
+R.kez_mg,Mental Gland,SPFb9,0
+R.kez_mg,Mental Gland,SPFb10,0
+R.kez_mg,Mental Gland,SPFb11,0
+E.tyn_M_mg,Mental Gland,PMF1,0
+E.tyn_M_mg,Mental Gland,PMF2,0
+E.tyn_M_mg,Mental Gland,PMF3,0.61
+E.tyn_M_mg,Mental Gland,PMF4,4.92
+E.tyn_M_mg,Mental Gland,PMF5,0
+E.tyn_M_mg,Mental Gland,PMF6,0
+E.tyn_M_mg,Mental Gland,PMF7,0
+E.tyn_M_mg,Mental Gland,PMF8,0
+E.tyn_M_mg,Mental Gland,PMF9,0
+E.tyn_M_mg,Mental Gland,spPRFd,0
+E.tyn_M_mg,Mental Gland,spPRFc,0
+E.tyn_M_mg,Mental Gland,spPRFb,0
+E.tyn_M_mg,Mental Gland,spPRFa,0
+E.tyn_M_mg,Mental Gland,PRFA,0
+E.tyn_M_mg,Mental Gland,SPFa1,5.45
+E.tyn_M_mg,Mental Gland,SPFa2,6.18
+E.tyn_M_mg,Mental Gland,SPFa3,1.69
+E.tyn_M_mg,Mental Gland,SPFa4,0
+E.tyn_M_mg,Mental Gland,SPFb1,2.38
+E.tyn_M_mg,Mental Gland,SPFb2,3.47
+E.tyn_M_mg,Mental Gland,SPFb3,1.1
+E.tyn_M_mg,Mental Gland,SPFb4,2.23
+E.tyn_M_mg,Mental Gland,SPFb5,2.86
+E.tyn_M_mg,Mental Gland,SPFb6,0
+E.tyn_M_mg,Mental Gland,SPFb7,2.66
+E.tyn_M_mg,Mental Gland,SPFb8,0
+E.tyn_M_mg,Mental Gland,SPFb9,0
+E.tyn_M_mg,Mental Gland,SPFb10,0
+E.tyn_M_mg,Mental Gland,SPFb11,1.74
+E.tyn_P_mg,Mental Gland,PMF1,0
+E.tyn_P_mg,Mental Gland,PMF2,0
+E.tyn_P_mg,Mental Gland,PMF3,0.61
+E.tyn_P_mg,Mental Gland,PMF4,2.99
+E.tyn_P_mg,Mental Gland,PMF5,0
+E.tyn_P_mg,Mental Gland,PMF6,0
+E.tyn_P_mg,Mental Gland,PMF7,0
+E.tyn_P_mg,Mental Gland,PMF8,0
+E.tyn_P_mg,Mental Gland,PMF9,0
+E.tyn_P_mg,Mental Gland,spPRFd,0
+E.tyn_P_mg,Mental Gland,spPRFc,0
+E.tyn_P_mg,Mental Gland,spPRFb,0
+E.tyn_P_mg,Mental Gland,spPRFa,0
+E.tyn_P_mg,Mental Gland,PRFA,0
+E.tyn_P_mg,Mental Gland,SPFa1,1.57
+E.tyn_P_mg,Mental Gland,SPFa2,2.37
+E.tyn_P_mg,Mental Gland,SPFa3,2.5
+E.tyn_P_mg,Mental Gland,SPFa4,0
+E.tyn_P_mg,Mental Gland,SPFb1,3.48
+E.tyn_P_mg,Mental Gland,SPFb2,4.32
+E.tyn_P_mg,Mental Gland,SPFb3,2.96
+E.tyn_P_mg,Mental Gland,SPFb4,4.2
+E.tyn_P_mg,Mental Gland,SPFb5,3.57
+E.tyn_P_mg,Mental Gland,SPFb6,0
+E.tyn_P_mg,Mental Gland,SPFb7,2.17
+E.tyn_P_mg,Mental Gland,SPFb8,0
+E.tyn_P_mg,Mental Gland,SPFb9,0
+E.tyn_P_mg,Mental Gland,SPFb10,0
+E.tyn_P_mg,Mental Gland,SPFb11,0
+D.brim_mg,Mental Gland,PMF1,4.51
+D.brim_mg,Mental Gland,PMF2,0
+D.brim_mg,Mental Gland,PMF3,0
+D.brim_mg,Mental Gland,PMF4,4.21
+D.brim_mg,Mental Gland,PMF5,0
+D.brim_mg,Mental Gland,PMF6,0
+D.brim_mg,Mental Gland,PMF7,0
+D.brim_mg,Mental Gland,PMF8,0
+D.brim_mg,Mental Gland,PMF9,0
+D.brim_mg,Mental Gland,spPRFd,0
+D.brim_mg,Mental Gland,spPRFc,0
+D.brim_mg,Mental Gland,spPRFb,0
+D.brim_mg,Mental Gland,spPRFa,0
+D.brim_mg,Mental Gland,PRFA,0
+D.brim_mg,Mental Gland,SPFa1,5.21
+D.brim_mg,Mental Gland,SPFa2,4.27
+D.brim_mg,Mental Gland,SPFa3,2.11
+D.brim_mg,Mental Gland,SPFa4,0
+D.brim_mg,Mental Gland,SPFb1,2.17
+D.brim_mg,Mental Gland,SPFb2,4.39
+D.brim_mg,Mental Gland,SPFb3,0
+D.brim_mg,Mental Gland,SPFb4,0
+D.brim_mg,Mental Gland,SPFb5,0
+D.brim_mg,Mental Gland,SPFb6,0
+D.brim_mg,Mental Gland,SPFb7,0
+D.brim_mg,Mental Gland,SPFb8,0
+D.brim_mg,Mental Gland,SPFb9,0
+D.brim_mg,Mental Gland,SPFb10,4.07
+D.brim_mg,Mental Gland,SPFb11,1.08
+P.alb_mg,Mental Gland,PMF1,5.17
+P.alb_mg,Mental Gland,PMF2,5.7
+P.alb_mg,Mental Gland,PMF3,0
+P.alb_mg,Mental Gland,PMF4,0
+P.alb_mg,Mental Gland,PMF5,0
+P.alb_mg,Mental Gland,PMF6,4.32
+P.alb_mg,Mental Gland,PMF7,0
+P.alb_mg,Mental Gland,PMF8,0
+P.alb_mg,Mental Gland,PMF9,1.01
+P.alb_mg,Mental Gland,spPRFd,0
+P.alb_mg,Mental Gland,spPRFc,0
+P.alb_mg,Mental Gland,spPRFb,0.94
+P.alb_mg,Mental Gland,spPRFa,0
+P.alb_mg,Mental Gland,PRFA,5.85
+P.alb_mg,Mental Gland,SPFa1,4.65
+P.alb_mg,Mental Gland,SPFa2,0
+P.alb_mg,Mental Gland,SPFa3,4.46
+P.alb_mg,Mental Gland,SPFa4,3.88
+P.alb_mg,Mental Gland,SPFb1,0
+P.alb_mg,Mental Gland,SPFb2,1.01
+P.alb_mg,Mental Gland,SPFb3,0
+P.alb_mg,Mental Gland,SPFb4,1.92
+P.alb_mg,Mental Gland,SPFb5,0.88
+P.alb_mg,Mental Gland,SPFb6,0
+P.alb_mg,Mental Gland,SPFb7,0
+P.alb_mg,Mental Gland,SPFb8,0
+P.alb_mg,Mental Gland,SPFb9,1.85
+P.alb_mg,Mental Gland,SPFb10,3.81
+P.alb_mg,Mental Gland,SPFb11,4.13
+A.tri_cg,Caudal Gland,PMF1,0
+A.tri_cg,Caudal Gland,PMF2,0
+A.tri_cg,Caudal Gland,PMF3,2.19
+A.tri_cg,Caudal Gland,PMF4,0
+A.tri_cg,Caudal Gland,PMF5,0
+A.tri_cg,Caudal Gland,PMF6,2.28
+A.tri_cg,Caudal Gland,PMF7,0
+A.tri_cg,Caudal Gland,PMF8,0
+A.tri_cg,Caudal Gland,PMF9,1.15
+A.tri_cg,Caudal Gland,spPRFd,0
+A.tri_cg,Caudal Gland,spPRFc,0
+A.tri_cg,Caudal Gland,spPRFb,0
+A.tri_cg,Caudal Gland,spPRFa,0
+A.tri_cg,Caudal Gland,PRFA,0
+A.tri_cg,Caudal Gland,SPFa1,0
+A.tri_cg,Caudal Gland,SPFa2,0
+A.tri_cg,Caudal Gland,SPFa3,1.93
+A.tri_cg,Caudal Gland,SPFa4,3.94
+A.tri_cg,Caudal Gland,SPFb1,4.04
+A.tri_cg,Caudal Gland,SPFb2,2.9
+A.tri_cg,Caudal Gland,SPFb3,0
+A.tri_cg,Caudal Gland,SPFb4,0
+A.tri_cg,Caudal Gland,SPFb5,2.9
+A.tri_cg,Caudal Gland,SPFb6,2.25
+A.tri_cg,Caudal Gland,SPFb7,2.4
+A.tri_cg,Caudal Gland,SPFb8,2.07
+A.tri_cg,Caudal Gland,SPFb9,0
+A.tri_cg,Caudal Gland,SPFb10,0
+A.tri_cg,Caudal Gland,SPFb11,0
+R.kez_cg,Caudal Gland,PMF1,0
+R.kez_cg,Caudal Gland,PMF2,0
+R.kez_cg,Caudal Gland,PMF3,0
+R.kez_cg,Caudal Gland,PMF4,0
+R.kez_cg,Caudal Gland,PMF5,0
+R.kez_cg,Caudal Gland,PMF6,0
+R.kez_cg,Caudal Gland,PMF7,0
+R.kez_cg,Caudal Gland,PMF8,0
+R.kez_cg,Caudal Gland,PMF9,0
+R.kez_cg,Caudal Gland,spPRFd,0
+R.kez_cg,Caudal Gland,spPRFc,0
+R.kez_cg,Caudal Gland,spPRFb,0
+R.kez_cg,Caudal Gland,spPRFa,0
+R.kez_cg,Caudal Gland,PRFA,0
+R.kez_cg,Caudal Gland,SPFa1,0
+R.kez_cg,Caudal Gland,SPFa2,0
+R.kez_cg,Caudal Gland,SPFa3,0
+R.kez_cg,Caudal Gland,SPFa4,0
+R.kez_cg,Caudal Gland,SPFb1,0
+R.kez_cg,Caudal Gland,SPFb2,0
+R.kez_cg,Caudal Gland,SPFb3,0
+R.kez_cg,Caudal Gland,SPFb4,0
+R.kez_cg,Caudal Gland,SPFb5,0
+R.kez_cg,Caudal Gland,SPFb6,0
+R.kez_cg,Caudal Gland,SPFb7,0
+R.kez_cg,Caudal Gland,SPFb8,0
+R.kez_cg,Caudal Gland,SPFb9,0
+R.kez_cg,Caudal Gland,SPFb10,0
+R.kez_cg,Caudal Gland,SPFb11,0
+E.tyn_M_cg,Caudal Gland,PMF1,0
+E.tyn_M_cg,Caudal Gland,PMF2,0
+E.tyn_M_cg,Caudal Gland,PMF3,0
+E.tyn_M_cg,Caudal Gland,PMF4,0.47
+E.tyn_M_cg,Caudal Gland,PMF5,0
+E.tyn_M_cg,Caudal Gland,PMF6,0
+E.tyn_M_cg,Caudal Gland,PMF7,0
+E.tyn_M_cg,Caudal Gland,PMF8,0
+E.tyn_M_cg,Caudal Gland,PMF9,0
+E.tyn_M_cg,Caudal Gland,spPRFd,0
+E.tyn_M_cg,Caudal Gland,spPRFc,0
+E.tyn_M_cg,Caudal Gland,spPRFb,0
+E.tyn_M_cg,Caudal Gland,spPRFa,0
+E.tyn_M_cg,Caudal Gland,PRFA,0
+E.tyn_M_cg,Caudal Gland,SPFa1,0.97
+E.tyn_M_cg,Caudal Gland,SPFa2,2.5
+E.tyn_M_cg,Caudal Gland,SPFa3,4.47
+E.tyn_M_cg,Caudal Gland,SPFa4,0
+E.tyn_M_cg,Caudal Gland,SPFb1,5.22
+E.tyn_M_cg,Caudal Gland,SPFb2,5.65
+E.tyn_M_cg,Caudal Gland,SPFb3,4.33
+E.tyn_M_cg,Caudal Gland,SPFb4,5.61
+E.tyn_M_cg,Caudal Gland,SPFb5,4.73
+E.tyn_M_cg,Caudal Gland,SPFb6,0
+E.tyn_M_cg,Caudal Gland,SPFb7,3.23
+E.tyn_M_cg,Caudal Gland,SPFb8,0
+E.tyn_M_cg,Caudal Gland,SPFb9,0
+E.tyn_M_cg,Caudal Gland,SPFb10,0
+E.tyn_M_cg,Caudal Gland,SPFb11,0
+E.tyn_P_cg,Caudal Gland,PMF1,0
+E.tyn_P_cg,Caudal Gland,PMF2,0
+E.tyn_P_cg,Caudal Gland,PMF3,0
+E.tyn_P_cg,Caudal Gland,PMF4,0
+E.tyn_P_cg,Caudal Gland,PMF5,0
+E.tyn_P_cg,Caudal Gland,PMF6,0
+E.tyn_P_cg,Caudal Gland,PMF7,0
+E.tyn_P_cg,Caudal Gland,PMF8,0
+E.tyn_P_cg,Caudal Gland,PMF9,0
+E.tyn_P_cg,Caudal Gland,spPRFd,0
+E.tyn_P_cg,Caudal Gland,spPRFc,0
+E.tyn_P_cg,Caudal Gland,spPRFb,0
+E.tyn_P_cg,Caudal Gland,spPRFa,0
+E.tyn_P_cg,Caudal Gland,PRFA,0
+E.tyn_P_cg,Caudal Gland,SPFa1,0.47
+E.tyn_P_cg,Caudal Gland,SPFa2,1.37
+E.tyn_P_cg,Caudal Gland,SPFa3,3.66
+E.tyn_P_cg,Caudal Gland,SPFa4,0
+E.tyn_P_cg,Caudal Gland,SPFb1,4.58
+E.tyn_P_cg,Caudal Gland,SPFb2,5.36
+E.tyn_P_cg,Caudal Gland,SPFb3,3.98
+E.tyn_P_cg,Caudal Gland,SPFb4,5.26
+E.tyn_P_cg,Caudal Gland,SPFb5,4.66
+E.tyn_P_cg,Caudal Gland,SPFb6,0
+E.tyn_P_cg,Caudal Gland,SPFb7,3.22
+E.tyn_P_cg,Caudal Gland,SPFb8,0
+E.tyn_P_cg,Caudal Gland,SPFb9,0
+E.tyn_P_cg,Caudal Gland,SPFb10,0
+E.tyn_P_cg,Caudal Gland,SPFb11,0
+D.brim_cg,Caudal Gland,PMF1,0
+D.brim_cg,Caudal Gland,PMF2,0
+D.brim_cg,Caudal Gland,PMF3,0
+D.brim_cg,Caudal Gland,PMF4,0
+D.brim_cg,Caudal Gland,PMF5,0
+D.brim_cg,Caudal Gland,PMF6,0
+D.brim_cg,Caudal Gland,PMF7,0
+D.brim_cg,Caudal Gland,PMF8,0
+D.brim_cg,Caudal Gland,PMF9,0
+D.brim_cg,Caudal Gland,spPRFd,0
+D.brim_cg,Caudal Gland,spPRFc,0
+D.brim_cg,Caudal Gland,spPRFb,0
+D.brim_cg,Caudal Gland,spPRFa,0
+D.brim_cg,Caudal Gland,PRFA,0
+D.brim_cg,Caudal Gland,SPFa1,0.7
+D.brim_cg,Caudal Gland,SPFa2,0
+D.brim_cg,Caudal Gland,SPFa3,3.5
+D.brim_cg,Caudal Gland,SPFa4,0
+D.brim_cg,Caudal Gland,SPFb1,3.19
+D.brim_cg,Caudal Gland,SPFb2,0
+D.brim_cg,Caudal Gland,SPFb3,0
+D.brim_cg,Caudal Gland,SPFb4,4.07
+D.brim_cg,Caudal Gland,SPFb5,4.37
+D.brim_cg,Caudal Gland,SPFb6,0
+D.brim_cg,Caudal Gland,SPFb7,0
+D.brim_cg,Caudal Gland,SPFb8,0
+D.brim_cg,Caudal Gland,SPFb9,0
+D.brim_cg,Caudal Gland,SPFb10,0
+D.brim_cg,Caudal Gland,SPFb11,0.7
+P.alb_cg,Caudal Gland,PMF1,1
+P.alb_cg,Caudal Gland,PMF2,0.76
+P.alb_cg,Caudal Gland,PMF3,0
+P.alb_cg,Caudal Gland,PMF4,0
+P.alb_cg,Caudal Gland,PMF5,0
+P.alb_cg,Caudal Gland,PMF6,0
+P.alb_cg,Caudal Gland,PMF7,0
+P.alb_cg,Caudal Gland,PMF8,0
+P.alb_cg,Caudal Gland,PMF9,1.84
+P.alb_cg,Caudal Gland,spPRFd,0
+P.alb_cg,Caudal Gland,spPRFc,0
+P.alb_cg,Caudal Gland,spPRFb,0
+P.alb_cg,Caudal Gland,spPRFa,0
+P.alb_cg,Caudal Gland,PRFA,0.83
+P.alb_cg,Caudal Gland,SPFa1,0
+P.alb_cg,Caudal Gland,SPFa2,0
+P.alb_cg,Caudal Gland,SPFa3,2.79
+P.alb_cg,Caudal Gland,SPFa4,2.53
+P.alb_cg,Caudal Gland,SPFb1,0
+P.alb_cg,Caudal Gland,SPFb2,2.12
+P.alb_cg,Caudal Gland,SPFb3,0
+P.alb_cg,Caudal Gland,SPFb4,3.2
+P.alb_cg,Caudal Gland,SPFb5,3.02
+P.alb_cg,Caudal Gland,SPFb6,0
+P.alb_cg,Caudal Gland,SPFb7,0
+P.alb_cg,Caudal Gland,SPFb8,0
+P.alb_cg,Caudal Gland,SPFb9,0.74
+P.alb_cg,Caudal Gland,SPFb10,0
+P.alb_cg,Caudal Gland,SPFb11,0
+A.tri_cloaca,Cloaca,PMF1,0
+A.tri_cloaca,Cloaca,PMF2,0
+A.tri_cloaca,Cloaca,PMF3,2.56
+A.tri_cloaca,Cloaca,PMF4,0
+A.tri_cloaca,Cloaca,PMF5,0
+A.tri_cloaca,Cloaca,PMF6,4.26
+A.tri_cloaca,Cloaca,PMF7,0
+A.tri_cloaca,Cloaca,PMF8,0
+A.tri_cloaca,Cloaca,PMF9,4
+A.tri_cloaca,Cloaca,spPRFd,0
+A.tri_cloaca,Cloaca,spPRFc,0
+A.tri_cloaca,Cloaca,spPRFb,0
+A.tri_cloaca,Cloaca,spPRFa,0
+A.tri_cloaca,Cloaca,PRFA,0
+A.tri_cloaca,Cloaca,SPFa1,0
+A.tri_cloaca,Cloaca,SPFa2,0
+A.tri_cloaca,Cloaca,SPFa3,3.85
+A.tri_cloaca,Cloaca,SPFa4,3.88
+A.tri_cloaca,Cloaca,SPFb1,4.45
+A.tri_cloaca,Cloaca,SPFb2,5.61
+A.tri_cloaca,Cloaca,SPFb3,0
+A.tri_cloaca,Cloaca,SPFb4,0
+A.tri_cloaca,Cloaca,SPFb5,4.58
+A.tri_cloaca,Cloaca,SPFb6,2.18
+A.tri_cloaca,Cloaca,SPFb7,5.05
+A.tri_cloaca,Cloaca,SPFb8,4.21
+A.tri_cloaca,Cloaca,SPFb9,0
+A.tri_cloaca,Cloaca,SPFb10,0
+A.tri_cloaca,Cloaca,SPFb11,0
+R.kez_cloaca,Cloaca,PMF1,0
+R.kez_cloaca,Cloaca,PMF2,0
+R.kez_cloaca,Cloaca,PMF3,0
+R.kez_cloaca,Cloaca,PMF4,0
+R.kez_cloaca,Cloaca,PMF5,0
+R.kez_cloaca,Cloaca,PMF6,5.01
+R.kez_cloaca,Cloaca,PMF7,0
+R.kez_cloaca,Cloaca,PMF8,0
+R.kez_cloaca,Cloaca,PMF9,4.61
+R.kez_cloaca,Cloaca,spPRFd,0
+R.kez_cloaca,Cloaca,spPRFc,0
+R.kez_cloaca,Cloaca,spPRFb,0
+R.kez_cloaca,Cloaca,spPRFa,0
+R.kez_cloaca,Cloaca,PRFA,0
+R.kez_cloaca,Cloaca,SPFa1,0
+R.kez_cloaca,Cloaca,SPFa2,0
+R.kez_cloaca,Cloaca,SPFa3,4.89
+R.kez_cloaca,Cloaca,SPFa4,0
+R.kez_cloaca,Cloaca,SPFb1,0
+R.kez_cloaca,Cloaca,SPFb2,0
+R.kez_cloaca,Cloaca,SPFb3,0
+R.kez_cloaca,Cloaca,SPFb4,0
+R.kez_cloaca,Cloaca,SPFb5,0
+R.kez_cloaca,Cloaca,SPFb6,0
+R.kez_cloaca,Cloaca,SPFb7,4.9
+R.kez_cloaca,Cloaca,SPFb8,0
+R.kez_cloaca,Cloaca,SPFb9,0
+R.kez_cloaca,Cloaca,SPFb10,0
+R.kez_cloaca,Cloaca,SPFb11,0
+E.tyn_P_cloaca,Cloaca,PMF1,0
+E.tyn_P_cloaca,Cloaca,PMF2,0
+E.tyn_P_cloaca,Cloaca,PMF3,1.24
+E.tyn_P_cloaca,Cloaca,PMF4,0
+E.tyn_P_cloaca,Cloaca,PMF5,0
+E.tyn_P_cloaca,Cloaca,PMF6,0
+E.tyn_P_cloaca,Cloaca,PMF7,0
+E.tyn_P_cloaca,Cloaca,PMF8,0
+E.tyn_P_cloaca,Cloaca,PMF9,2.4
+E.tyn_P_cloaca,Cloaca,spPRFd,0.36
+E.tyn_P_cloaca,Cloaca,spPRFc,0
+E.tyn_P_cloaca,Cloaca,spPRFb,0
+E.tyn_P_cloaca,Cloaca,spPRFa,0
+E.tyn_P_cloaca,Cloaca,PRFA,0
+E.tyn_P_cloaca,Cloaca,SPFa1,0
+E.tyn_P_cloaca,Cloaca,SPFa2,0
+E.tyn_P_cloaca,Cloaca,SPFa3,1.35
+E.tyn_P_cloaca,Cloaca,SPFa4,0
+E.tyn_P_cloaca,Cloaca,SPFb1,0.68
+E.tyn_P_cloaca,Cloaca,SPFb2,2.78
+E.tyn_P_cloaca,Cloaca,SPFb3,0.81
+E.tyn_P_cloaca,Cloaca,SPFb4,2.31
+E.tyn_P_cloaca,Cloaca,SPFb5,2.58
+E.tyn_P_cloaca,Cloaca,SPFb6,0
+E.tyn_P_cloaca,Cloaca,SPFb7,2.33
+E.tyn_P_cloaca,Cloaca,SPFb8,1.46
+E.tyn_P_cloaca,Cloaca,SPFb9,0
+E.tyn_P_cloaca,Cloaca,SPFb10,0
+E.tyn_P_cloaca,Cloaca,SPFb11,0.86
+E.tyn_M_cloaca,Cloaca,PMF1,0
+E.tyn_M_cloaca,Cloaca,PMF2,0
+E.tyn_M_cloaca,Cloaca,PMF3,0
+E.tyn_M_cloaca,Cloaca,PMF4,0
+E.tyn_M_cloaca,Cloaca,PMF5,0
+E.tyn_M_cloaca,Cloaca,PMF6,0
+E.tyn_M_cloaca,Cloaca,PMF7,0
+E.tyn_M_cloaca,Cloaca,PMF8,0
+E.tyn_M_cloaca,Cloaca,PMF9,0
+E.tyn_M_cloaca,Cloaca,spPRFd,0
+E.tyn_M_cloaca,Cloaca,spPRFc,0
+E.tyn_M_cloaca,Cloaca,spPRFb,0
+E.tyn_M_cloaca,Cloaca,spPRFa,0
+E.tyn_M_cloaca,Cloaca,PRFA,0
+E.tyn_M_cloaca,Cloaca,SPFa1,0
+E.tyn_M_cloaca,Cloaca,SPFa2,0
+E.tyn_M_cloaca,Cloaca,SPFa3,0
+E.tyn_M_cloaca,Cloaca,SPFa4,0
+E.tyn_M_cloaca,Cloaca,SPFb1,0
+E.tyn_M_cloaca,Cloaca,SPFb2,3.74
+E.tyn_M_cloaca,Cloaca,SPFb3,0
+E.tyn_M_cloaca,Cloaca,SPFb4,0
+E.tyn_M_cloaca,Cloaca,SPFb5,0
+E.tyn_M_cloaca,Cloaca,SPFb6,0
+E.tyn_M_cloaca,Cloaca,SPFb7,0
+E.tyn_M_cloaca,Cloaca,SPFb8,0
+E.tyn_M_cloaca,Cloaca,SPFb9,0
+E.tyn_M_cloaca,Cloaca,SPFb10,0
+E.tyn_M_cloaca,Cloaca,SPFb11,0
+D.brim_cloaca,Cloaca,PMF1,0
+D.brim_cloaca,Cloaca,PMF2,0
+D.brim_cloaca,Cloaca,PMF3,1.39
+D.brim_cloaca,Cloaca,PMF4,0
+D.brim_cloaca,Cloaca,PMF5,0
+D.brim_cloaca,Cloaca,PMF6,0
+D.brim_cloaca,Cloaca,PMF7,3.76
+D.brim_cloaca,Cloaca,PMF8,4.39
+D.brim_cloaca,Cloaca,PMF9,3.87
+D.brim_cloaca,Cloaca,spPRFd,0.96
+D.brim_cloaca,Cloaca,spPRFc,0
+D.brim_cloaca,Cloaca,spPRFb,0
+D.brim_cloaca,Cloaca,spPRFa,0
+D.brim_cloaca,Cloaca,PRFA,0
+D.brim_cloaca,Cloaca,SPFa1,0
+D.brim_cloaca,Cloaca,SPFa2,0
+D.brim_cloaca,Cloaca,SPFa3,0.58
+D.brim_cloaca,Cloaca,SPFa4,0
+D.brim_cloaca,Cloaca,SPFb1,0
+D.brim_cloaca,Cloaca,SPFb2,0.52
+D.brim_cloaca,Cloaca,SPFb3,0
+D.brim_cloaca,Cloaca,SPFb4,0.51
+D.brim_cloaca,Cloaca,SPFb5,0.26
+D.brim_cloaca,Cloaca,SPFb6,0.92
+D.brim_cloaca,Cloaca,SPFb7,3.14
+D.brim_cloaca,Cloaca,SPFb8,0.65
+D.brim_cloaca,Cloaca,SPFb9,1.42
+D.brim_cloaca,Cloaca,SPFb10,1.59
+D.brim_cloaca,Cloaca,SPFb11,2.35
+P.alb_cloaca,Cloaca,PMF1,0.35
+P.alb_cloaca,Cloaca,PMF2,0.54
+P.alb_cloaca,Cloaca,PMF3,2.06
+P.alb_cloaca,Cloaca,PMF4,0
+P.alb_cloaca,Cloaca,PMF5,0
+P.alb_cloaca,Cloaca,PMF6,3.27
+P.alb_cloaca,Cloaca,PMF7,2.53
+P.alb_cloaca,Cloaca,PMF8,3.02
+P.alb_cloaca,Cloaca,PMF9,2.02
+P.alb_cloaca,Cloaca,spPRFd,0
+P.alb_cloaca,Cloaca,spPRFc,0
+P.alb_cloaca,Cloaca,spPRFb,0.31
+P.alb_cloaca,Cloaca,spPRFa,0.43
+P.alb_cloaca,Cloaca,PRFA,2.03
+P.alb_cloaca,Cloaca,SPFa1,0
+P.alb_cloaca,Cloaca,SPFa2,0
+P.alb_cloaca,Cloaca,SPFa3,3.79
+P.alb_cloaca,Cloaca,SPFa4,3.39
+P.alb_cloaca,Cloaca,SPFb1,0
+P.alb_cloaca,Cloaca,SPFb2,2.68
+P.alb_cloaca,Cloaca,SPFb3,0
+P.alb_cloaca,Cloaca,SPFb4,3.61
+P.alb_cloaca,Cloaca,SPFb5,3.03
+P.alb_cloaca,Cloaca,SPFb6,0
+P.alb_cloaca,Cloaca,SPFb7,0
+P.alb_cloaca,Cloaca,SPFb8,1.77
+P.alb_cloaca,Cloaca,SPFb9,3.1
+P.alb_cloaca,Cloaca,SPFb10,1.94
+P.alb_cloaca,Cloaca,SPFb11,2.31
+A.tri_testis,Testes,PMF1,0
+A.tri_testis,Testes,PMF2,0
+A.tri_testis,Testes,PMF3,0.97
+A.tri_testis,Testes,PMF4,0
+A.tri_testis,Testes,PMF5,0
+A.tri_testis,Testes,PMF6,3.38
+A.tri_testis,Testes,PMF7,0
+A.tri_testis,Testes,PMF8,0
+A.tri_testis,Testes,PMF9,1.07
+A.tri_testis,Testes,spPRFd,0
+A.tri_testis,Testes,spPRFc,0
+A.tri_testis,Testes,spPRFb,0
+A.tri_testis,Testes,spPRFa,0
+A.tri_testis,Testes,PRFA,0
+A.tri_testis,Testes,SPFa1,0
+A.tri_testis,Testes,SPFa2,0
+A.tri_testis,Testes,SPFa3,0.79
+A.tri_testis,Testes,SPFa4,0.7
+A.tri_testis,Testes,SPFb1,1
+A.tri_testis,Testes,SPFb2,2.13
+A.tri_testis,Testes,SPFb3,0
+A.tri_testis,Testes,SPFb4,0
+A.tri_testis,Testes,SPFb5,2
+A.tri_testis,Testes,SPFb6,2.63
+A.tri_testis,Testes,SPFb7,1.97
+A.tri_testis,Testes,SPFb8,1.28
+A.tri_testis,Testes,SPFb9,0
+A.tri_testis,Testes,SPFb10,0
+A.tri_testis,Testes,SPFb11,0
+R.kez_testes,Testes,PMF1,0
+R.kez_testes,Testes,PMF2,0
+R.kez_testes,Testes,PMF3,0
+R.kez_testes,Testes,PMF4,0
+R.kez_testes,Testes,PMF5,0
+R.kez_testes,Testes,PMF6,0
+R.kez_testes,Testes,PMF7,0
+R.kez_testes,Testes,PMF8,0
+R.kez_testes,Testes,PMF9,1.96
+R.kez_testes,Testes,spPRFd,0
+R.kez_testes,Testes,spPRFc,0
+R.kez_testes,Testes,spPRFb,0
+R.kez_testes,Testes,spPRFa,0
+R.kez_testes,Testes,PRFA,0
+R.kez_testes,Testes,SPFa1,0
+R.kez_testes,Testes,SPFa2,0
+R.kez_testes,Testes,SPFa3,0
+R.kez_testes,Testes,SPFa4,0
+R.kez_testes,Testes,SPFb1,1.49
+R.kez_testes,Testes,SPFb2,0
+R.kez_testes,Testes,SPFb3,0
+R.kez_testes,Testes,SPFb4,0
+R.kez_testes,Testes,SPFb5,0
+R.kez_testes,Testes,SPFb6,0
+R.kez_testes,Testes,SPFb7,0
+R.kez_testes,Testes,SPFb8,0
+R.kez_testes,Testes,SPFb9,0
+R.kez_testes,Testes,SPFb10,0
+R.kez_testes,Testes,SPFb11,0
+E.tyn_P_testes,Testes,PMF1,0
+E.tyn_P_testes,Testes,PMF2,0
+E.tyn_P_testes,Testes,PMF3,0
+E.tyn_P_testes,Testes,PMF4,0
+E.tyn_P_testes,Testes,PMF5,0
+E.tyn_P_testes,Testes,PMF6,0
+E.tyn_P_testes,Testes,PMF7,0
+E.tyn_P_testes,Testes,PMF8,0
+E.tyn_P_testes,Testes,PMF9,0
+E.tyn_P_testes,Testes,spPRFd,2.94
+E.tyn_P_testes,Testes,spPRFc,0
+E.tyn_P_testes,Testes,spPRFb,0
+E.tyn_P_testes,Testes,spPRFa,0
+E.tyn_P_testes,Testes,PRFA,0
+E.tyn_P_testes,Testes,SPFa1,0
+E.tyn_P_testes,Testes,SPFa2,0
+E.tyn_P_testes,Testes,SPFa3,0
+E.tyn_P_testes,Testes,SPFa4,0
+E.tyn_P_testes,Testes,SPFb1,1.19
+E.tyn_P_testes,Testes,SPFb2,0.43
+E.tyn_P_testes,Testes,SPFb3,0
+E.tyn_P_testes,Testes,SPFb4,1.28
+E.tyn_P_testes,Testes,SPFb5,0
+E.tyn_P_testes,Testes,SPFb6,0
+E.tyn_P_testes,Testes,SPFb7,2.86
+E.tyn_P_testes,Testes,SPFb8,0
+E.tyn_P_testes,Testes,SPFb9,0
+E.tyn_P_testes,Testes,SPFb10,0
+E.tyn_P_testes,Testes,SPFb11,0
+E.tyn_M_testes,Testes,PMF1,0
+E.tyn_M_testes,Testes,PMF2,0
+E.tyn_M_testes,Testes,PMF3,0
+E.tyn_M_testes,Testes,PMF4,0
+E.tyn_M_testes,Testes,PMF5,0
+E.tyn_M_testes,Testes,PMF6,0
+E.tyn_M_testes,Testes,PMF7,0
+E.tyn_M_testes,Testes,PMF8,0
+E.tyn_M_testes,Testes,PMF9,0
+E.tyn_M_testes,Testes,spPRFd,4.39
+E.tyn_M_testes,Testes,spPRFc,0
+E.tyn_M_testes,Testes,spPRFb,0
+E.tyn_M_testes,Testes,spPRFa,0
+E.tyn_M_testes,Testes,PRFA,0
+E.tyn_M_testes,Testes,SPFa1,0
+E.tyn_M_testes,Testes,SPFa2,0
+E.tyn_M_testes,Testes,SPFa3,0
+E.tyn_M_testes,Testes,SPFa4,0
+E.tyn_M_testes,Testes,SPFb1,2.77
+E.tyn_M_testes,Testes,SPFb2,0
+E.tyn_M_testes,Testes,SPFb3,0
+E.tyn_M_testes,Testes,SPFb4,0
+E.tyn_M_testes,Testes,SPFb5,0
+E.tyn_M_testes,Testes,SPFb6,0
+E.tyn_M_testes,Testes,SPFb7,1.8
+E.tyn_M_testes,Testes,SPFb8,0.62
+E.tyn_M_testes,Testes,SPFb9,0
+E.tyn_M_testes,Testes,SPFb10,0
+E.tyn_M_testes,Testes,SPFb11,0
+D.brim_testes,Testes,PMF1,0
+D.brim_testes,Testes,PMF2,0
+D.brim_testes,Testes,PMF3,0
+D.brim_testes,Testes,PMF4,0
+D.brim_testes,Testes,PMF5,0
+D.brim_testes,Testes,PMF6,0
+D.brim_testes,Testes,PMF7,0.58
+D.brim_testes,Testes,PMF8,0.7
+D.brim_testes,Testes,PMF9,0.68
+D.brim_testes,Testes,spPRFd,0
+D.brim_testes,Testes,spPRFc,0
+D.brim_testes,Testes,spPRFb,0
+D.brim_testes,Testes,spPRFa,0
+D.brim_testes,Testes,PRFA,0
+D.brim_testes,Testes,SPFa1,0
+D.brim_testes,Testes,SPFa2,0.19
+D.brim_testes,Testes,SPFa3,0.11
+D.brim_testes,Testes,SPFa4,0
+D.brim_testes,Testes,SPFb1,0.39
+D.brim_testes,Testes,SPFb2,0
+D.brim_testes,Testes,SPFb3,0
+D.brim_testes,Testes,SPFb4,0.17
+D.brim_testes,Testes,SPFb5,0.77
+D.brim_testes,Testes,SPFb6,2.29
+D.brim_testes,Testes,SPFb7,1.37
+D.brim_testes,Testes,SPFb8,1.55
+D.brim_testes,Testes,SPFb9,1.1
+D.brim_testes,Testes,SPFb10,0
+D.brim_testes,Testes,SPFb11,0.32
+P.alb_testes,Testes,PMF1,2.79
+P.alb_testes,Testes,PMF2,0
+P.alb_testes,Testes,PMF3,0.52
+P.alb_testes,Testes,PMF4,0
+P.alb_testes,Testes,PMF5,0
+P.alb_testes,Testes,PMF6,0
+P.alb_testes,Testes,PMF7,0.79
+P.alb_testes,Testes,PMF8,2.03
+P.alb_testes,Testes,PMF9,0
+P.alb_testes,Testes,spPRFd,0
+P.alb_testes,Testes,spPRFc,4.08
+P.alb_testes,Testes,spPRFb,2.05
+P.alb_testes,Testes,spPRFa,2.02
+P.alb_testes,Testes,PRFA,0
+P.alb_testes,Testes,SPFa1,0
+P.alb_testes,Testes,SPFa2,0
+P.alb_testes,Testes,SPFa3,0.51
+P.alb_testes,Testes,SPFa4,0.81
+P.alb_testes,Testes,SPFb1,0
+P.alb_testes,Testes,SPFb2,1.36
+P.alb_testes,Testes,SPFb3,0
+P.alb_testes,Testes,SPFb4,0.79
+P.alb_testes,Testes,SPFb5,1.44
+P.alb_testes,Testes,SPFb6,0
+P.alb_testes,Testes,SPFb7,0
+P.alb_testes,Testes,SPFb8,4.91
+P.alb_testes,Testes,SPFb9,0.76
+P.alb_testes,Testes,SPFb10,0
+P.alb_testes,Testes,SPFb11,0
