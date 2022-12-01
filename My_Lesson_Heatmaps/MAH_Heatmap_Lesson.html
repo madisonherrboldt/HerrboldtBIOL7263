@@ -566,6 +566,21 @@ an imbedded image of your heatmap.</p>
 <p><a href="MAH_assignment_data.csv">Assignment Data</a></p>
 <p><a href="assignment_script.R">One possible solution</a></p>
 </div>
+<div id="note" class="section level2">
+<h2>NOTE</h2>
+<p>So, in my personal opinion the best way to make a heatmap in R is
+with the package ComplexHeatmap. You can literally do SO MUCH. This
+package is a bioconductor package, so to download it you will actually
+need to do:</p>
+<pre><code>if (!require(&quot;BiocManager&quot;, quietly = TRUE))
+    install.packages(&quot;BiocManager&quot;)
+
+BiocManager::install(&quot;ComplexHeatmap&quot;)</code></pre>
+<p>I didn’t have time to create a tutorial for this package but there is
+an incredible tutorial online. Here is the link for it!</p>
+<p><a href="https://jokergoo.github.io/ComplexHeatmap-reference/book/a-single-heatmap.html#split-by-categorical-variables">ComplexHeatmap
+Tutorial</a></p>
+</div>
 
 
 

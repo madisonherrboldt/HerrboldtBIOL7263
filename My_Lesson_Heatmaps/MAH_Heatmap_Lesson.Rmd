@@ -191,4 +191,16 @@ Take the following dataset and create a heatmap using ggplot2 that is faceted by
 
 [One possible solution](assignment_script.R)
 
+## NOTE
+So, in my personal opinion the best way to make a heatmap in R is with the package ComplexHeatmap. You can literally do SO MUCH. This package is a bioconductor package, so to download it you will actually need to do:
+```
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("ComplexHeatmap")
+```
+I didn't have time to create a tutorial for this package but there is an incredible tutorial online. Here is the link for it!
+
+[ComplexHeatmap Tutorial](https://jokergoo.github.io/ComplexHeatmap-reference/book/a-single-heatmap.html#split-by-categorical-variables)
+
 
