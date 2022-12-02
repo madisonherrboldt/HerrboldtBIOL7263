@@ -29,9 +29,9 @@ I am an evolutionary reproductive biologist that uses male salamander courtship 
 | September 1st 2022 | Assignemnt 1: Set up Rproject and link with Github | [Assignment1](Assignments/Assignment1_MAH.html) |
 | September 8th 2022  | Assignment 2: Build our portfolio and explore Rmarkdown  | [Assignment2](index.html) |
 | September 15th 2022 | Assignment 3: Working with BBedit and grep | [Assignment3](Assignments/Assignment3_MAH.html) |
-| October | Assignment 4: Working with dplyr | |
+| December 2nd 2022 | Assignment 4: Working with dplyr | [Assignment4](Assignments/Assignment4_MAH.html) |
 | October 19th 2022 | Assignment 5: Making tidy tibbles | [Assignment5](Assignments/Assignment5_MAH.html)
-| November | Assignment 6: Plotting with GGPlot | [Assignment6](Assignments/Assignment6_MAH.html)
+| November 27th 2022| Assignment 6: Plotting with GGPlot | [Assignment6](Assignments/Assignment6_MAH.html)
 | November 15th 2022 | Assignment 7: GIS in R - My Climate Niche | [Assignment7](Assignments/Assignment7_MAH.html) |
 | December 1st 2022 | Lesson: Heatmaps in R | [MAH Lesson](My_Lesson_Heatmaps/MAH_Heatmap_Lesson.html) |
 
