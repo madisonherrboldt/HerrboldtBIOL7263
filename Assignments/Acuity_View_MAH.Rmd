@@ -1,0 +1,68 @@
+---
+title: "Acuity View"
+author: "Madison Herrboldt"
+date: "2022-12-02"
+output: html_document
+---
+```{r}
+library(AcuityView)
+library(fftwtools)
+library(imager)
+```
+
+## Cat Acuity
+```{r}
+#CAT
+img_mouse <- load.image('field-mouse.jpg')
+dim(img_mouse)
+img_mouse <- resize(img_mouse, 512, 512)
+MRA_cat <- 1/8.85 
+AcuityView(photo = img_mouse, distance = 12, realWidth = 3.4, eyeResolutionX = 0.113, eyeResolutionY = NULL, plot = T, output = "cat_view.jpg" )
+```
+
+![Cat view of field mouse from 12 inches away](cat_view.jpg)
+
+## Eagle Acuity
+```{r}
+img_mouse <- load.image('field-mouse.jpg')
+dim(img_mouse)
+img_mouse <- resize(img_mouse, 512, 512)
+MRA_eagle <- 1/140 
+AcuityView(photo = img_mouse, distance = 240, realWidth = 3.4, eyeResolutionX = 0.00714, eyeResolutionY = NULL, plot = T, output = "eagle_view.jpg" )
+```
+
+![Eagles view of the same field mouse from 240 inches away](eagle_view.jpg)
+
+## Honeybee Acuity
+```{r}
+img_rose <- load.image('rose.jpg')
+dim(img_rose)
+img_rose <- resize(img_rose, 512, 512)
+MRA_bee <- 1/0.83 
+AcuityView(photo = img_rose, distance = 2, realWidth = 4, eyeResolutionX = 1.2, eyeResolutionY = NULL, plot = T, output = "bee_view.jpg" )
+```
+
+![Honeybee view of a rose from 2 inches away](bee_view.jpg)
+
+## Isopod Acuity
+```{r}
+img_isopod <- load.image('isopod.jpg')
+dim(img_isopod)
+img_isopod <- resize(img_isopod, 512, 512)
+MRA_isopod <- 1/0.05 
+AcuityView(photo = img_isopod, distance = 50, realWidth = 30, eyeResolutionX = 20, eyeResolutionY = NULL, plot = T, output = "isopod_view.jpg")
+```
+
+![Isopod view of a conspecfic from 50mm away](isopod_view.jpg)
+
+
+## Oarfish Acuity
+```{r}
+img_squid <- load.image('squid.jpg')
+dim(img_squid)
+img_squid <- resize(img_squid, 512, 512)
+MRA_oarfish <- 1/9.2 
+AcuityView(photo = img_squid, distance = 50, realWidth = 12, eyeResolutionX = 0.109, eyeResolutionY = NULL, plot = T, output = "oarfish_view.jpg")
+```
+
+![Oarfish view of a squid from 50 inches away](oarfish_view.jpg)
