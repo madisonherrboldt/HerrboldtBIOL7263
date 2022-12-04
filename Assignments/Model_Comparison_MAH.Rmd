@@ -1,0 +1,51 @@
+---
+title: "Model Comparison"
+author: "Madison Herrboldt"
+date: "2022-12-04"
+output: html_document
+---
+## Using AIC for Model Comparison
+
+```{r}
+library(MuMIn)
+library(AICcmodavg)
+
+#load in the data set
+banding_data <- read.csv("SD_banding_data.csv")
+#omit NAs
+banding_na <- na.omit(banding_data) 
+```
+
+### Make a Model
+```{r}
+mass_model <- glm(mass ~ species+age+fat+temp+season, data = banding_na, family = gaussian, na.action = na.fail)
+```
+
+### Dredge the Model
+```{r}
+#construct all models with dredge, compare them based on AICc scores and include species in every model
+AICc_models <- dredge(mass_model, rank = "AICc", fixed = "species") 
+
+#make a list of models from the dredged data
+model_list <- get.models(AICc_models, subset = TRUE)
+#iew the first model
+model_list[1]
+```
+
+### Make a Pretty Table
+```{r}
+model_name_list<-NULL #make an empty list
+
+for (i in 1:16){
+  model_name_list = c(model_name_list, as.character(model_list[[i]][['formula']]))} #loop through model output to extract formula for each model
+
+model_name_listb <- model_name_list[seq(3, length(model_name_list), 3)] #select every third element from list and put it in a new list
+
+
+modavg_table<-aictab(model_list, modnames = model_name_listb, #label the models with models name list
+                     second.ord = TRUE,   #Use AICc instead of AIC
+                     sort = TRUE) #Order based on model weight
+
+#View table
+modavg_table
+```
