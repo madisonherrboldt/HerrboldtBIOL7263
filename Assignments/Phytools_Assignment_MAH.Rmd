@@ -1,0 +1,28 @@
+---
+title: "Phytools Assignment"
+author: "Madison Herrboldt"
+date: "2022-12-05"
+output: html_document
+---
+## Making a Phylogenetic Tree in R
+
+Load the necessary packages 
+```{r}
+library(phytools)
+library(geiger)
+library(diversitree)
+```
+
+We are going to make a family level tree of 8 snake families!
+```{r}
+#put our snake families in the tree format and apply to variable Snakes
+Snakes <- "((((((Elapidae,Lamprophiidae),Colubridae),Homalopsidae),Viperidae),(Pythonidae,Boidae)),Typhlopidae);"
+
+#read the tree with the snake families
+snake.tree<-read.tree(text=Snakes)
+
+#plot the tree
+plotTree(snake.tree, ftype = "b", fsize = 1.2, color = "green", lwd = 4)
+```
+
+
